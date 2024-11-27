@@ -103,7 +103,7 @@ I primarily work with the MERN stack, but I’m always exploring new tools and t
 [![View Project](https://img.shields.io/badge/View%20Project-%23007acc?style=for-the-badge)](https://markme-project.netlify.app/)
 [![View Code](https://img.shields.io/badge/View%20Code-%23007acc?style=for-the-badge)](https://github.com/jvivesramon/marker-me)
 
-<img src="https://i.ibb.co/y8Pn7vn/Screenshot-2024-11-26-at-15-05-03.png" alt="MarkMe Project Screenshot" width="25%" />
+<img src="https://i.ibb.co/y8Pn7vn/Screenshot-2024-11-26-at-15-05-03.png" alt="MarkMe Project Screenshot" width="30%" />
 
 #
 
@@ -111,7 +111,7 @@ I primarily work with the MERN stack, but I’m always exploring new tools and t
 [![View Project](https://img.shields.io/badge/View%20Project-%23007acc?style=for-the-badge)](https://ticketin.netlify.app/)
 [![View Code](https://img.shields.io/badge/View%20Code-%23007acc?style=for-the-badge)](https://github.com/jvivesramon/ticketIn)
 
-<img src="https://i.ibb.co/bFGMMrt/Screenshot-2024-11-26-at-15-36-38.png" alt="TicketIn Project Screenshot" width="25%" />
+<img src="https://i.ibb.co/bFGMMrt/Screenshot-2024-11-26-at-15-36-38.png" alt="TicketIn Project Screenshot" width="30%" />
 
 #
 
@@ -119,7 +119,7 @@ I primarily work with the MERN stack, but I’m always exploring new tools and t
 [![View Project](https://img.shields.io/badge/View%20Project-%23007acc?style=for-the-badge)](https://suspiria.netlify.app/)
 [![View Code](https://img.shields.io/badge/View%20Code-%23007acc?style=for-the-badge)](https://github.com/jvivesramon/suspiria-front)
 
-<img src="https://i.ibb.co/qpzsJcX/Screenshot-2024-11-26-at-15-36-59.png" alt="Suspiria Project Screenshot" width="25%" />
+<img src="https://i.ibb.co/qpzsJcX/Screenshot-2024-11-26-at-15-36-59.png" alt="Suspiria Project Screenshot" width="30%" />
 
 ---
 
