@@ -1,15 +1,15 @@
 <h1 align="center">👋 Get to know me</h1>
 
 <p align="center">
-  <img src="https://i.ibb.co/17Q8Fcp/ada-lovelace-yellow-A4.jpg" alt="Ada Lovelace Illustration by Judit Vives" width="30%" style="border-radius: 10px;" />
+  <img src="https://i.ibb.co/17Q8Fcp/ada-lovelace-yellow-A4.jpg" alt="Ada Lovelace Illustration by Judit Vives" width="20%" style="border-radius: 10px;" />
 </p>
 
-<p align="center">
+<p align="center" width="50%">
   <em>You probably know this person -<strong>or maybe not</strong> 🤷🏻‍♀️- Ada Lovelace, the first woman to create an informatic algorithm.  
   Though I’m not the first woman programmer, her story inspires me deeply.</em>
 </p>
 
-<p align="center">
+<p align="center" width="50%">
   This image, which I illustrated, represents my two worlds: <b>development</b> and <b>art</b>.
 </p>
 
@@ -103,7 +103,7 @@ I primarily work with the MERN stack, but I’m always exploring new tools and t
 [![View Project](https://img.shields.io/badge/View%20Project-%23007acc?style=for-the-badge)](https://markme-project.netlify.app/)
 [![View Code](https://img.shields.io/badge/View%20Code-%23007acc?style=for-the-badge)](https://github.com/jvivesramon/marker-me)
 
-<img src="https://i.ibb.co/y8Pn7vn/Screenshot-2024-11-26-at-15-05-03.png" alt="MarkMe Project Screenshot" width="35%" />
+<img src="https://i.ibb.co/y8Pn7vn/Screenshot-2024-11-26-at-15-05-03.png" alt="MarkMe Project Screenshot" width="20%" />
 
 #
 
@@ -111,7 +111,7 @@ I primarily work with the MERN stack, but I’m always exploring new tools and t
 [![View Project](https://img.shields.io/badge/View%20Project-%23007acc?style=for-the-badge)](https://ticketin.netlify.app/)
 [![View Code](https://img.shields.io/badge/View%20Code-%23007acc?style=for-the-badge)](https://github.com/jvivesramon/ticketIn)
 
-<img src="https://i.ibb.co/bFGMMrt/Screenshot-2024-11-26-at-15-36-38.png" alt="TicketIn Project Screenshot" width="35%" />
+<img src="https://i.ibb.co/bFGMMrt/Screenshot-2024-11-26-at-15-36-38.png" alt="TicketIn Project Screenshot" width="20%" />
 
 #
 
@@ -119,7 +119,7 @@ I primarily work with the MERN stack, but I’m always exploring new tools and t
 [![View Project](https://img.shields.io/badge/View%20Project-%23007acc?style=for-the-badge)](https://suspiria.netlify.app/)
 [![View Code](https://img.shields.io/badge/View%20Code-%23007acc?style=for-the-badge)](https://github.com/jvivesramon/suspiria-front)
 
-<img src="https://i.ibb.co/qpzsJcX/Screenshot-2024-11-26-at-15-36-59.png" alt="Suspiria Project Screenshot" width="35%" />
+<img src="https://i.ibb.co/qpzsJcX/Screenshot-2024-11-26-at-15-36-59.png" alt="Suspiria Project Screenshot" width="20%" />
 
 ---
 
