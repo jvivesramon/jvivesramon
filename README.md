@@ -1,7 +1,7 @@
 <h1 align="center">👋 Get to know me</h1>
 
 <p align="center">
-  <img src="https://i.ibb.co/17Q8Fcp/ada-lovelace-yellow-A4.jpg" alt="Ada Lovelace Illustration by Judit Vives" width="25%" style="border-radius: 10px;" />
+  <img src="https://i.ibb.co/17Q8Fcp/ada-lovelace-yellow-A4.jpg" alt="Ada Lovelace Illustration by Judit Vives" width="20%" style="border-radius: 10px;" />
 </p>
 
 <p align="center">
