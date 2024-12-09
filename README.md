@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <em>You probably know this person -<strong>or maybe not</strong> 🤷🏻‍♀️- Ada Lovelace, the first woman to create an informatic algorithm.  
+  <em>You probably know this person -<strong>or maybe not</strong> 🤷🏻‍♀️- Ada Lovelace, the first woman to create a computer algorithm.  
   Though I’m not the first woman programmer, her story inspires me deeply.</em>
 </p>
 
